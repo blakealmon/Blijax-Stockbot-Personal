@@ -1,6 +1,6 @@
 # Bijax-Stockbot 🤖
 
-|| This is a team project that I contributed too that you can access here ||
+|| This is a team project that I contributed too that you can access here. This was built during the summer at AI-Camp (Expert Level) ||
 
 || I personally worked on the backend and built the QA system that is compatible with URLS ||
 

@@ -1,8 +1,8 @@
 # Bijax-Stockbot 🤖
 
-|| This is a team project that I contributed too that you can access here. ||
+|| This is a team project that I contributed too that you can access here ||
 
-|| I personally worked on the backend and built the QA system that is compatible with URLS.
+|| I personally worked on the backend and built the QA system that is compatible with URLS ||
 
 
 Blijax is a multipurpose AI-powered web application whose purpose is targeted at providing financial advice.
